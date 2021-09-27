@@ -1,0 +1,17 @@
+.billonaires {
+  display: inline-block;
+  margin: 2px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: #dfe6e9;
+}
+.btn-regular {
+  background-color: #78e08f;
+  padding: 10px 20px;
+  color: black;
+  border: 1px solid #0a3d62;
+  border-radius: 4px;
+  font-size: 15px;
+  cursor: pointer;
+}
